@@ -7,7 +7,7 @@
 ### AI Engineer | Data Engineering Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedMandour-ops&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](PUT_YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mandour-b552563b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:PUT_YOUR_EMAIL_HERE)
 
 </div>
